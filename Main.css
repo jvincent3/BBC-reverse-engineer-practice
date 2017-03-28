@@ -1,0 +1,165 @@
+
+
+body {
+                
+                margin: 0;
+                padding: 0;
+                font-family: Helvetica, Arial, sans-serif;
+                
+            }
+
+header {
+	
+	font-weight: bold;
+	background-color:;
+	height:50px;
+
+}
+#boxed {
+
+		 		width:1100px;
+                margin-right:auto;
+                margin-left:auto;
+                height: 40px;
+                
+}
+#centered {
+				width:1100px;
+                margin-right:auto;
+                margin-left:auto;
+                height: 430px;
+                display: block;
+                background-color:pink;
+
+               	
+
+
+}
+
+header nav {
+	
+	
+	
+	
+}
+#logo {
+	width:100px;
+	float:left;
+	margin:8px 8px 0 0;
+}
+
+header nav li {
+	background-color:;
+	padding:15px 15px;
+	display:block;
+	float:left;
+	border-left:1px #cccccc solid;
+	
+
+}
+header nav li:hover {
+	background-color:red;
+}
+
+.searchbarborder {
+	display:block;
+	border-left:1px #cccccc solid;
+	
+	float:left;
+	padding-bottom: 11.5px;
+
+}
+
+#searchbar {
+	display:block;
+	
+	margin:13px 0 0 5px;
+	float:left;
+	padding:5px 0 5px 8px;
+	background-color: #dddddd;
+	border:none;
+	height:24px;
+
+}
+.magnify {
+	border-color: transparent;
+	margin-top:13px;
+	height:24px;
+
+}
+.clear {
+	clear:both;
+}
+#news {
+	height:60px;
+	background-color:#bb1919;
+	
+}
+.news {
+			display:block;
+
+			width:1100px;
+            margin:0 auto;
+            height: 40px;
+            color:white;
+            font-size:3em;
+                
+
+}
+
+#secondnavbg {
+
+	display:block;
+	background-color:a91717;
+}
+#secondnavbox {
+	width:1115px;
+	margin:0 auto;
+	height: 40px;
+}
+
+#secondnavbox nav ul {
+	display:inline-block;
+	background-color:pink;
+}
+
+#secondnavbox nav li  {
+	float:left;
+	display:inline-block;
+	display:block;
+	
+	padding:11px;
+
+	
+}
+#secondnavbox li a {
+
+	display:inline-block;
+	color:white;
+	font-family: Helvetica, Arial, sans-serif;
+	padding-right:15px;
+	border-right:1px #cccccc solid;
+}
+#feed1 {
+	display:inline-block;
+	background-color:green;
+	height:300px;
+	width:200px;
+	padding:20px ;
+	float:left;
+}
+
+#advertisement{
+	display:inline-block;
+	height:300px;
+	width:200px;
+	background-color:orange;
+	float:right;
+}
+#feedcomments{
+	display:block;
+	background-color:red;
+	width:550px;
+	padding:25px 0 25px;
+	float:left;
+}
